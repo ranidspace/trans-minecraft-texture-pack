@@ -8,9 +8,7 @@ u/PixelatedChar: Idea for trans coloured spider eyes
 u/BragBirch: Idea for trans coloured shields
 
 
-Borrowed Textures(If you want these removed or you made these and I credited the wrong person tell me):
-Alex: Hatsune miku: tinybunngirl
-Steve: trans icon herobrine but with better pants: by anon1449
+Borrowed Textures:
 Fox: minecraft fox thigh highs: by @whoakden
 Ender Pearl and Eye of Ender: by Insanity? or something
 
