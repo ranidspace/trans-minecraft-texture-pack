@@ -1,5 +1,9 @@
 {
+"options.gamma.min": "Goth",
+"options.gamma.max": "Pastel",
+"options.sensitivity.max": "HYPERGAY!!!",
 "block.minecraft.trapped_chest": "Tr*pped Chest",
+"block.minecraft.bed.not_safe": "You may not rest now; there are transphobes nearby",
 "block.minecraft.oak_trapdoor": "Oak Tr*pdoor",
 "block.minecraft.spruce_trapdoor": "Spruce Tr*pdoor",
 "block.minecraft.birch_trapdoor": "Birch Tr*pdoor",
@@ -8,6 +12,8 @@
 "block.minecraft.dark_oak_trapdoor": "Dark Oak Tr*pdoor",
 "block.minecraft.iron_trapdoor": "Iron Tr*pdoor",
 "block.minecraft.blast_furnace": "Blyat Furnace",
+"block.minecraft.beehive": "Trans Beehive",
+"block.minecraft.bee_nest": "Trans Bee Nest",
 "item.minecraft.gold_ingot": "Pink Gold Ingot",
 "item.minecraft.golden_sword": "Pink Golden Sword",
 "item.minecraft.golden_shovel": "Pink Golden Shovel",
@@ -21,8 +27,10 @@
 "item.minecraft.golden_apple": "Trans Apple",
 "item.minecraft.enchanted_golden_apple": "Super Trans Apple",
 "item.minecraft.gold_nugget": "Pink Gold Nugget",
+"item.minecraft.bee_spawn_egg": "Trans Bee Spawn Egg",
 "item.minecraft.golden_carrot": "Pink Golden Carrot",
 "item.minecraft.nether_star": "Trans Star",
 "item.minecraft.golden_horse_armor": "Pink Golden Horse Armor",
+"entity.minecraft.bee": "Trans Bee",
 "container.blast_furnace": "Blyat Furnace"
 }
