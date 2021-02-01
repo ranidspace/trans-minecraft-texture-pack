@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 5,
+    "pack_format": 6,
     "description": "A simple pack that Changes some of the textures to have the trans flag on it"
   }
 }
